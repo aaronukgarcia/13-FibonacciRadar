@@ -48,3 +48,7 @@ If you have data, critiques, or are interested in a technical exchange regarding
 
 ---
 *The logarithmic spiral appears in nautilus shells, hurricanes, and galaxies. This project asks if "spira mirabilis" can also make objects invisible to sound.*
+
+## Version 1.1 (August 2026)
+
+Adds citations for the adjacent underwater-metamaterial work the first release described without references (reconfigurable spiral underwater metasurfaces, 2021; space-coiled ultrathin absorbers, 2023; impedance-matched composites), and records that a further targeted search in August 2026 again found no published test of the scale-invariance mechanism as the source of multi-octave underwater bandwidth — the paper's central question remains open. Metadata cleaned to RELEASED.
